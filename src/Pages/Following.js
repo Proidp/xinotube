@@ -583,7 +583,7 @@ const Following = () => {
                   </li>
                   <li className={switchToggled ? "navigation-link navigation-links--micro" : "navigation-link"}>
                      <Link target="_blank" rel="noopener noreferrer"
-                        to="" className="button button--no-style"
+                        to="/Community-Guidelines" className="button button--no-style"
                         aria-label="Community Guidelines">
                         <span className="button__content">
                            <span dir="auto" className="button__label">Community Guidelines</span>
@@ -599,7 +599,7 @@ const Following = () => {
                      </Link>
                   </li>
                   <li className={switchToggled ? "navigation-link navigation-links--micro" : "navigation-link"}>
-                     <Link target="_blank" rel="noopener noreferrer" to=""
+                     <Link target="_blank" rel="noopener noreferrer" to="/privacypolicy"
                         className="button button--no-style" aria-label="Privacy Policy">
                         <span className="button__content">
                            <span dir="auto" className="button__label">Privacy Policy</span>

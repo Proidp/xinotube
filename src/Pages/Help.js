@@ -1185,7 +1185,7 @@ const [switchToggled, setSwitchToggled] = useState(true);
                   <Link
                     target="_blank"
                     rel="noopener noreferrer"
-                    to=""
+                    to="/XinotubeHelp"
                     className="button button--no-style"
                     aria-label="FAQ and Support"
                   >
@@ -1206,7 +1206,7 @@ const [switchToggled, setSwitchToggled] = useState(true);
                   <Link
                     target="_blank"
                     rel="noopener noreferrer"
-                    to=""
+                    to="/Community-Guidelines"
                     className="button button--no-style"
                     aria-label="Community Guidelines"
                   >
@@ -1248,7 +1248,7 @@ const [switchToggled, setSwitchToggled] = useState(true);
                   <Link
                     target="_blank"
                     rel="noopener noreferrer"
-                    to=""
+                    to="/privacypolicy"
                     className="button button--no-style"
                     aria-label="Privacy Policy"
                   >
